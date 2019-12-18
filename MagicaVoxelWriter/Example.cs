@@ -2,7 +2,7 @@
 
 namespace MagicaVoxelWriter
 {
-    class Example
+    internal class Example
     {
         /// <summary>
         /// Generates a random walk
